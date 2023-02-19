@@ -1,0 +1,377 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Heal": {
+      "Heal": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675808582029
+        }
+      }
+    },
+    "Blightburn Sickness": {
+      "Blightburn Sickness": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675808659905
+        }
+      }
+    },
+    "Dying": {
+      "Dying": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675809010890
+        }
+      }
+    },
+    "Air Mephit": {
+      "Air Mephit": {
+        "internalLink": {
+          "count": 15,
+          "lastUpdated": 1675875781430
+        }
+      }
+    },
+    "Adamantine-Golem": {
+      "Adamantine-Golem": {
+        "internalLink": {
+          "count": 10,
+          "lastUpdated": 1675865024975
+        }
+      }
+    },
+    "Ancient Green Dragon": {
+      "Ancient-Green-Dragon": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675863248640
+        }
+      }
+    },
+    "Aasimar-Redeemer": {
+      "Aasimar-Redeemer": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675863543465
+        }
+      }
+    },
+    "Ankhrav": {
+      "Ankhrav": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1675866868590
+        }
+      }
+    },
+    "Adamantine Golem": {
+      "Adamantine Golem": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1675866994444
+        }
+      }
+    },
+    "Air-Wisp": {
+      "Air-Wisp": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675864763519
+        }
+      }
+    },
+    "Adult-Sky-Dragon": {
+      "Adult-Sky-Dragon": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1675867428376
+        }
+      }
+    },
+    "Deadly Mantis": {
+      "Deadly Mantis": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675869000184
+        }
+      }
+    },
+    "Giant Rat": {
+      "Giant Rat": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1675900379763
+        }
+      },
+      "Giant-Rat": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675890812008
+        }
+      }
+    },
+    "INITIATIVE": {
+      "INITIATIVE": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675901094548
+        }
+      }
+    },
+    "Success": {
+      "Success": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1675911398013
+        }
+      }
+    },
+    "Failure": {
+      "Failure": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675911405363
+        }
+      }
+    },
+    "Sadistic Conductor": {
+      "Sadistic Conductor": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675911045823
+        }
+      }
+    },
+    "Tablet of Chained Souls": {
+      "Tablet of Chained Souls": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675911368274
+        }
+      }
+    },
+    "Skeleton Guard": {
+      "Skeleton Guard": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1675983510419
+        }
+      }
+    },
+    "Kobold Warrior": {
+      "Kobold Warrior": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1676143586321
+        }
+      }
+    },
+    "Pick a Lock": {
+      "Pick a Lock": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675986529549
+        }
+      }
+    },
+    "Fortitude": {
+      "Fortitude": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675991266464
+        }
+      }
+    },
+    "Religion": {
+      "Religion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675991532200
+        }
+      }
+    },
+    "heroes": {
+      "heroes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675995583060
+        }
+      }
+    },
+    "Healing Potion": {
+      "Healing Potion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676144070496
+        }
+      }
+    },
+    "Cinder-Rat": {
+      "Cinder-Rat": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676155670637
+        }
+      }
+    },
+    "their": {
+      "their": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676396941881
+        }
+      }
+    },
+    "Kobold Dragon Mage": {
+      "Kobold Dragon Mage": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676398638676
+        }
+      }
+    },
+    "Fighting Fan": {
+      "Fighting Fan": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676398840721
+        }
+      }
+    },
+    "Wyrmling Green": {
+      "Dragon, Wyrmling Green": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1676401162462
+        }
+      }
+    },
+    "Dragon, Wyrmling Green": {
+      "Dragon, Wyrmling Green": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676401222885
+        }
+      }
+    },
+    "Tengu": {
+      "Tengu": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676403990452
+        }
+      }
+    },
+    "Cantrip": {
+      "Cantrip": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676405969754
+        }
+      }
+    },
+    "Tamily Tanderveil": {
+      "Tamily Tanderveil": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676417883158
+        }
+      }
+    },
+    "Absalom": {
+      "Absalom": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676434551231
+        }
+      }
+    },
+    "they’d": {
+      "they’d": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676510398380
+        }
+      }
+    },
+    "Rydore Scoovin": {
+      "Rydore Scoovin": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676598061063
+        }
+      }
+    },
+    "Baykok": {
+      "Baykok": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676598220461
+        }
+      }
+    },
+    "Fighter's Fork": {
+      "Fighter's Fork": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676693483341
+        }
+      }
+    },
+    "Troubles in Otari": {
+      "Troubles in Otari": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1676693730782
+        }
+      }
+    }
+  }
+}

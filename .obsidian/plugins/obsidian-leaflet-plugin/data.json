@@ -1,0 +1,671 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1676174267878,
+      "markers": [
+        {
+          "id": "ID_7abb0a7a5b5a",
+          "type": "Room",
+          "loc": [
+            -2.07403564453125,
+            0.978515625
+          ],
+          "link": "1. Hungry Rats!",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "map floor 1",
+      "lastAccessed": 1676311164695,
+      "markers": [
+        {
+          "id": "ID_99abea9bb96a",
+          "type": "Room",
+          "loc": [
+            -2.0546875,
+            0.947265625
+          ],
+          "link": "1. Hungry Rats!",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49641760491299897,
+            0.8289992119779354
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ba9189b7859",
+          "type": "Room",
+          "loc": [
+            -2.14630126953125,
+            1.548828125
+          ],
+          "link": "2. Drop Into Darkness",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19e848fbba7b",
+          "type": "Room",
+          "loc": [
+            -1.52911376953125,
+            1.544921875
+          ],
+          "link": "3. The Spider's Web",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_488a19a82a89",
+          "type": "Room",
+          "loc": [
+            -0.98028564453125,
+            1.16015625
+          ],
+          "link": "4. The Barricade",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaab483888b8",
+          "type": "Room",
+          "loc": [
+            -0.53497314453125,
+            1.47265625
+          ],
+          "link": "5. Forgotten Crypt",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ae97be919fb",
+          "type": "Room",
+          "loc": [
+            -1.37872314453125,
+            0.818359375
+          ],
+          "link": "6. Forgotten Shrine",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3bc97b6be8",
+          "type": "Room",
+          "loc": [
+            -1.79669189453125,
+            0.43359375
+          ],
+          "link": "7. Abandoned Storeroom",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_795aeb58085a",
+          "type": "Room",
+          "loc": [
+            -1.59375,
+            0.197265625
+          ],
+          "link": "8. Trapped Hallway",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.10337768679631525,
+            0.6430260047281324
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da59ea893b29",
+          "type": "Room",
+          "loc": [
+            -1.15020751953125,
+            0.19140625
+          ],
+          "link": "9. Gold Puzzle",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_692a49e8fb49",
+          "type": "Room",
+          "loc": [
+            -0.830078125,
+            0.40625
+          ],
+          "link": "10. Abadar's Vault",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2128966223132037,
+            0.33490937746256894
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a89abc94a28",
+          "type": "Room",
+          "loc": [
+            -0.57794189453125,
+            0.20703125
+          ],
+          "link": "11. Kobolds and Traps",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Otari/Menace Under Otari/Map Floor 1.md"
+      ]
+    },
+    {
+      "id": "map floor 2",
+      "lastAccessed": 1676399881951,
+      "markers": [
+        {
+          "id": "ID_d84baafabb19",
+          "type": "Room",
+          "loc": [
+            -2.21484375,
+            0.923828125
+          ],
+          "link": "12. Kobolds & Traps Again!",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46971201588877853,
+            0.8873239436619719
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b87978fbfb4b",
+          "type": "Room",
+          "loc": [
+            -1.77716064453125,
+            1.064453125
+          ],
+          "link": "13. Soggy Crossroads",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b691aa8c8f9",
+          "type": "Room",
+          "loc": [
+            -1.97247314453125,
+            1.5546875
+          ],
+          "link": "14. Elements of Chaos",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caeaf93a698b",
+          "type": "Room",
+          "loc": [
+            -1.255859375,
+            1.26171875
+          ],
+          "link": "15. Xulgath Cave",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6415094339622641,
+            0.5031298904538342
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0baa9b7aa8b9",
+          "type": "Room",
+          "loc": [
+            -1.77520751953125,
+            0.2919921875
+          ],
+          "link": "16. Mermaid Fountain",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abc99aa9c91b",
+          "type": "Room",
+          "loc": [
+            -1.43927001953125,
+            0.3583984375
+          ],
+          "link": "17. Kobold Warren",
+          "layer": "%5B%5BMap%20Floor%202.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Otari/Menace Under Otari/Map Floor 2.md"
+      ]
+    },
+    {
+      "id": "Map of Otari",
+      "lastAccessed": 1676431460037,
+      "markers": [
+        {
+          "id": "ID_d9cb583bd92b",
+          "type": "Room",
+          "loc": [
+            -1.583984375,
+            1.353515625
+          ],
+          "link": "1. The Giant's Wheel",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7241379310344828,
+            0.6598860862489829
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa080beaeadb",
+          "type": "Room",
+          "loc": [
+            -1.8984375,
+            1.181640625
+          ],
+          "link": "2. Loading Flume",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.632183908045977,
+            0.790886899918633
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8884b88fadb",
+          "type": "Room",
+          "loc": [
+            -1.625,
+            1.14453125
+          ],
+          "link": "3. Menhemes Manor",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6123301985370951,
+            0.6769731489015459
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9e978e9a9ea",
+          "type": "Room",
+          "loc": [
+            -1.33203125,
+            0.734375
+          ],
+          "link": "4. Wrin's Wonders",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3928944618599791,
+            0.5549227013832384
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493aaa78d858",
+          "type": "Room",
+          "loc": [
+            -1.3223724365234375,
+            0.9130859375
+          ],
+          "link": "5. Gallentine Deliveries",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb28f91a38db",
+          "type": "Room",
+          "loc": [
+            -1.4375,
+            0.728515625
+          ],
+          "link": "6. Blades for Glades",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3897596656217346,
+            0.5988608624898292
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_193ada9a5bba",
+          "type": "Room",
+          "loc": [
+            -1.4551849365234375,
+            0.890625
+          ],
+          "link": "7. Odd Stories",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2919f89ad889",
+          "type": "Room",
+          "loc": [
+            -1.4375,
+            1.068359375
+          ],
+          "link": "8. Otari Garrison",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5715778474399164,
+            0.5988608624898292
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daa8ebbb0b89",
+          "type": "Room",
+          "loc": [
+            -1.54296875,
+            0.912109375
+          ],
+          "link": "9. Farmer's Guild",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.48798328108672934,
+            0.6427990235964198
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98fb097a9b89",
+          "type": "Room",
+          "loc": [
+            -1.59765625,
+            0.77734375
+          ],
+          "link": "10. Crow's Casks",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4158829676071055,
+            0.6655817737998373
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bf9b9abeaf9",
+          "type": "Room",
+          "loc": [
+            -1.7578125,
+            0.8046875
+          ],
+          "link": "11. Crook's Nook",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43051201671891326,
+            0.7323026851098454
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98aaa898a82b",
+          "type": "Room",
+          "loc": [
+            -1.744140625,
+            0.927734375
+          ],
+          "link": "12. Otari Market",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49634273772204807,
+            0.726606997558991
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aacaf88a9988",
+          "type": "Room",
+          "loc": [
+            -1.892578125,
+            0.953125
+          ],
+          "link": "13. Otari Fishery",
+          "layer": "!%5B%5BMap%20of%20Otari.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.509926854754441,
+            0.7884458909682669
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Otari/Otari.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ad1b0b",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Room",
+      "iconName": "bookmark",
+      "color": "#0f1cd2",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.1.2",
+  "version": {
+    "major": 5,
+    "minor": 1,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
