@@ -100,20 +100,99 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Alistaire Donophan of Riddenhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
+                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "aff58f92f98ce933",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. GM Screen",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. GM Screen/Rules Reference.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3d91c1f1ca149baa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. GM Screen",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Tripping.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e734c028bfc2d72f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1. GM Screen/1. GM Screen.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -216,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
+                "file": "1. GM Screen/1. GM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md",
+                "file": "1. GM Screen/1. GM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md"
+                "file": "1. GM Screen/1. GM Screen.md"
               }
             }
           },
@@ -455,17 +534,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "09eea170fb6852f4",
+  "active": "e734c028bfc2d72f",
   "lastOpenFiles": [
-    "3. World/Otari/Otari.md",
+    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Tripping.md",
     "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
-    "3. World/Otari/Troubles in Otari/Troubles in Otari.md",
-    "4. Dramatis Personae/Otari NPC's/Rydore Scoovin.md",
-    "4. Dramatis Personae/Otari NPC's/Tamily Tanderveil.md",
-    "3. World/Otari/Township of Otari/13. Otari Fishery.md",
-    "Untitled.md",
-    "3. World/Otari/Menace Under Otari/19. Mushroom Grotto.md",
-    "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
-    "3. World/Otari/Menace Under Otari/17. Kobold Warren.md"
+    "1. GM Screen/1. GM Screen.md",
+    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Grapple.md",
+    "1. GM Screen/Rules Reference.md",
+    "3. World/Otari/Otari.md",
+    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Shove.md",
+    "3. World/Otari/Gittest Folder/Gittest Note.md",
+    "3. World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Chapter 1.md",
+    "3. World/Otari/Gittest Folder/Note3.md"
   ]
 }

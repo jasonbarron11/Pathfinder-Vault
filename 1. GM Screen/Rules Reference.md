@@ -5,22 +5,22 @@ Turns Core 468
 **End your Turn** End anything that lasts until the end of your turn; take persistent damage and attempt to recover from it; use one triggered action with a trigger of “your turn ends”.
 
 # Basic Actions
-**Aid** DC 20 check to give a +1 circumstance bonus to assisted skill check or attack roll (crit success: +2, +3 if master, +4 if legendary). 
-**Crawl** [one-action] (move) Move 5 feet while prone.
-**Delay** [free-action] Select this when your turn begins; take your turn later.
-**Drop Prone** [one-action] (move) Fall prone.
-**Escape** [one-action] (attack) Attempt to get free when grappled, restrained, or immobilized. Use unarmed attack modifier, Acrobatics, or Athletics.
-**Interact** [one-action] (manipulate) Grab an object, open a door, draw an item, or do a similar action.
-**Leap** [one-action] (move) Jump horizontally 10 feet (15 feet if your Speed is 30 feet or more), or vertically 3 feet and horizontally 5 feet.
-**Ready** [two-actions] (concentrate) Prepare to take a single action or free action as a reaction with a trigger you designate.
-**Release** [free-action] (manipulate) Release something you’re holding without triggering reactions.
-**Seek** [one-action] (concentrate, secret) Scan an area for signs of creatures or objects using Perception.
-**Sense Motive** [one-action] (concentrate, secret) See if a creature is lying. 
-**Stand** [one-action] (move) You stand up from prone. 
-**Step** [one-action] (move) Move 5 feet without triggering reactions.
-**Stride** [one-action] (move) Move up to your Speed.
-**Strike** [one-action] (attack) Attack with a weapon or unarmed attack.
-**Take Cover** [one-action] Gain cover, or get greater cover if you have cover.
+- **Aid** DC 20 check to give a +1 circumstance bonus to assisted skill check or attack roll (crit success: +2, +3 if master, +4 if legendary). 
+- **Crawl** *⬻{ .Pathfinder }* (move) Move 5 feet while prone.
+- **Delay** *⭓{ .Pathfinder }* Select this when your turn begins; take your turn later.
+- **Drop Prone** *⬻{ .Pathfinder }* (move) Fall prone.
+- **Escape** *⬻{ .Pathfinder }* (attack) Attempt to get free when grappled, restrained, or immobilized. Use unarmed attack modifier, Acrobatics, or Athletics.
+- **Interact** *⬻{ .Pathfinder }* (manipulate) Grab an object, open a door, draw an item, or do a similar action.
+- **Leap** *⬻{ .Pathfinder }* (move) Jump horizontally 10 feet (15 feet if your Speed is 30 feet or more), or vertically 3 feet and horizontally 5 feet.
+- **Ready** *⬺{ .Pathfinder }* (concentrate) Prepare to take a single action or free action as a reaction with a trigger you designate.
+- **Release** *⭓{ .Pathfinder }* (manipulate) Release something you’re holding without triggering reactions.
+- **Seek** *⬻{ .Pathfinder }* (concentrate, secret) Scan an area for signs of creatures or objects using Perception.
+- **Sense Motive** *⬻{ .Pathfinder }* (concentrate, secret) See if a creature is lying. 
+- **Stand** *⬻{ .Pathfinder }* (move) You stand up from prone. 
+- **Step** *⬻{ .Pathfinder }* (move) Move 5 feet without triggering reactions.
+- **Stride** *⬻{ .Pathfinder }* (move) Move up to your Speed.
+- **Strike** *⬻{ .Pathfinder }* (attack) Attack with a weapon or unarmed attack.
+- **Take Cover** *⬻{ .Pathfinder }* Gain cover, or get greater cover if you have cover.
 
 # Speciality Basic Actions
 **Arrest a Fall** [reaction] Use Acrobatics to slow your fall while flying.
