@@ -36,7 +36,6 @@
   "z_Templates": "FabDochub",
   "Core Mechanics/1. Core Rule Book": "RiToolsFill",
   "1. GM Screen": "FabElementor",
-  "1. GM Screen/Spells & Rituals": "FasWandMagicSparkles",
   "3. World": "RiEarthLine",
   "3. World/Otari": "RiEarthLine",
   "3. World/Otari/Abomination Vault": "IbSearch",
@@ -73,5 +72,6 @@
   "2. Core Mechanics/1. Core Rule Book": "RiToolsFill",
   "4. Dramatis Personae/Heroes": "FasUserGroup",
   "4. Dramatis Personae/Heroes/Heroes of Otari": "FasUserGroup",
-  "4. Dramatis Personae/Groups & Organizations": "FasScroll"
+  "4. Dramatis Personae/Groups & Organizations": "FasScroll",
+  "2. Core Mechanics/1. Core Rule Book/Spells & Rituals": "FasWandMagicSparkles"
 }

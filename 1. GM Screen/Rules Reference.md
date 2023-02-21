@@ -23,14 +23,14 @@ Turns Core 468
 - **Take Cover** *⬻{ .Pathfinder }* Gain cover, or get greater cover if you have cover.
 
 # Speciality Basic Actions
-**Arrest a Fall** [reaction] Use Acrobatics to slow your fall while flying.
-**Avert Gaze** [one-action] Get a +2 circumstance bonus against visual abilities.
-**Burrow** [one-action] (move) Move up to your burrow Speed.
-**Fly** [one-action] (move) Move up to your fly Speed. Moving upward counts as traveling through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you’re airborne at the end of your turn and didn’t Fly this round, you fall.
-**Grab an Edge** [reaction] (manipulate) Try to catch something to stop a fall.
-**Mount** [one-action] (move) Get on an allied animal bigger than you to ride it.
-**Point Out** [one-action] (auditory, manipulate, visual) Reveal unobserved creature.
-**Raise a Shield** [one-action] Put up a shield to get its bonus to AC.
+- **Arrest a Fall** *⬲{ .Pathfinder }* Use Acrobatics to slow your fall while flying.
+- **Avert Gaze** *⬻{ .Pathfinder }* Get a +2 circumstance bonus against visual abilities.
+- **Burrow** *⬻{ .Pathfinder }* (move) Move up to your burrow Speed.
+- **Fly** *⬻{ .Pathfinder }* (move) Move up to your fly Speed. Moving upward counts as traveling through difficult terrain. You can move straight down 10 feet for every 5 feet of movement you spend. If you’re airborne at the end of your turn and didn’t Fly this round, you fall.
+- **Grab an Edge** *⬲{ .Pathfinder }* (manipulate) Try to catch something to stop a fall.
+- **Mount** *⬻{ .Pathfinder }* (move) Get on an allied animal bigger than you to ride it.
+- **Point Out** *⬻{ .Pathfinder }* (auditory, manipulate, visual) Reveal unobserved creature.
+- **Raise a Shield** *⬻{ .Pathfinder }* Put up a shield to get its bonus to AC.
 
 # Death and Dying
 **Knocked Out** When reduced to 0 HP, move your initiative to directly before the creature or effect that reduced you to 0 HP. Gain dying 1, or dying 2 if the damage came from a critical hit or your critical failure on a save. A nonlethal effect makes you unconscious at 0 HP and doesn’t give you the dying condition.
@@ -89,51 +89,52 @@ Give out 1 Hero Point to each PC at the start of the session. Give out roughly 1
 # Skill Actions
 **E** Exploration action, 
 **D** Downtime action
-- **Acrobatics** (Dex, Core 240) Balance [one-action], Tumble Through [one-action]
-**Trained** Maneuver in Flight [one-action], Squeeze E
+- **Acrobatics** (Dex, Core 240) Balance *⬻{ .Pathfinder }* Tumble Through *⬻{ .Pathfinder }*
 
-- **Arcana** (Int, Core 241) Recall Knowledge [one-action] (Core 238)
+- **Trained** Maneuver in Flight *⬻{ .Pathfinder }* Squeeze E *⬻{ .Pathfinder }*
+
+- **Arcana** (Int, Core 241) Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
 **Trained** Borrow an Arcane Spell E, Decipher Writing E (Core 234), Identify Magic E (Core 238), Learn a Spell E (Core 238)
 
-- **Athletics** (Str, Core 241) Climb [one-action], Force Open [one-action], Grapple [one-action], High Jump [two-actions], Long Jump [two-actions], Shove [one-action], Swim [one-action], Trip [one-action]
-**Trained** Disarm [one-action]
+- **Athletics** (Str, Core 241) Climb *⬻{ .Pathfinder }* Force Open *⬻{ .Pathfinder }* Grapple *⬻{ .Pathfinder }* High Jump *⬺{ .Pathfinder }* Long Jump *⬺{ .Pathfinder }* Shove *⬻{ .Pathfinder }* Swim *⬻{ .Pathfinder }* Trip *⬻{ .Pathfinder }*
+ **Trained** Disarm *⬻{ .Pathfinder }*
 
-- **Crafting** (Int, Core 243) Recall Knowledge [one-action] (Core 238), Repair E
+- **Crafting** (Int, Core 243) Recall Knowledge *⬻{ .Pathfinder }* (Core 238), Repair E
 **Trained** Craft D, Earn Income D (Core 236), Identify Alchemy E
 
-- **Deception** (Cha, Core 245) Create a Diversion [one-action], Impersonate E, Lie 
-**Trained** Feint [one-action]
+- **Deception** (Cha, Core 245) Create a Diversion *⬻{ .Pathfinder }* Impersonate E, Lie 
+**Trained** Feint *⬻{ .Pathfinder }*
 
-- **Diplomacy** (Cha, Core 246) Gather Information E, Make an Impression E, Request [one-action]
-Intimidation (Cha, Core 247) Coerce E, Demoralize [one-action]
+- **Diplomacy** (Cha, Core 246) Gather Information E, Make an Impression E, Request *⬻{ .Pathfinder }*
+Intimidation (Cha, Core 247) Coerce E, Demoralize *⬻{ .Pathfinder }*
 
-- **Lore** (Int, Core 247) Recall Knowledge [one-action] (Core 238)
+- **Lore** (Int, Core 247) Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
 **Trained** Earn Income D (Core 236)
 
-- **Medicine** (Wis, Core 248) Administer First Aid [two-actions], Recall Knowledge [one-action] (Core 238)
-**Trained** Treat Disease D, Treat Poison [one-action], Treat Wounds E
+- **Medicine** (Wis, Core 248) Administer First Aid *⬺{ .Pathfinder }* Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
+**Trained** Treat Disease D, Treat Poison *⬻{ .Pathfinder }* Treat Wounds E
 
-- **Nature** (Wis, Core 249) Command an Animal [one-action], Recall Knowledge [one-action] (Core 238)
+- **Nature** (Wis, Core 249) Command an Animal *⬻{ .Pathfinder }* Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
 **Trained** Identify Magic E (Core 238), Learn a Spell E (Core 238)
 
-- **Occultism** (Int, Core 249) Recall Knowledge [one-action] (Core 238)
+- **Occultism** (Int, Core 249) Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
 **Trained** Decipher Writing E (Core 234), Identify Magic E (Core 238), Learn a Spell E (Core 238)
 
-- **Performance** (Cha, Core 250) Perform [one-action]
+- **Performance** (Cha, Core 250) Perform *⬻{ .Pathfinder }*
 **Trained** Earn Income D (Core 236)
 
-- **Religion** (Wis, Core 250) Recall Knowledge [one-action] (Core 238)
+- **Religion** (Wis, Core 250) Recall Knowledge *⬻{ .Pathfinder }* (Core 238)
 **Trained** Decipher Writing E (Core 234), Identify Magic E (Core 238), Learn a Spell E (Core 238)
 
-- **Society** (Int, Core 250) Recall Knowledge [one-action] (Core 238), Subsist D (Core 240)
+- **Society** (Int, Core 250) Recall Knowledge *⬻{ .Pathfinder }* (Core 238), Subsist D (Core 240)
 **Trained** Create Forgery D, Decipher Writing E (Core 234)
 
-- **Stealth** (Dex, Core 251) Conceal an Object [one-action], Hide [one-action], Sneak [one-action]
+- **Stealth** (Dex, Core 251) Conceal an Object *⬻{ .Pathfinder }* Hide *⬻{ .Pathfinder }* Sneak *⬻{ .Pathfinder }*
 
 - **Survival** (Wis, Core 252) Sense Direction E, Subsist D (Core 240)
 **Trained** Cover Tracks E, Track E
 
-- **Thievery** (Dex, Core 253) Palm an Object [one-action], Steal [one-action]Trained Disable a Device [two-actions], Pick a Lock [two-actions]
+- **Thievery** (Dex, Core 253) Palm an Object *⬻{ .Pathfinder }* Steal *⬻{ .Pathfinder }* Trained Disable a Device *⬺{ .Pathfinder }* Pick a Lock *⬺{ .Pathfinder }*
 
 # Simple DCs
 

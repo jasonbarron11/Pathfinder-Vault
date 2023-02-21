@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3877d858918a638",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. World/Otari/Otari.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5420dd772711cd00",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -37,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1. GM Screen",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Troubles in Otari",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Troubles in Otari/Troubles in Otari.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Otari/Troubles in Otari/Troubles in Otari.md",
+                "file": "1. GM Screen/Rules Reference.md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,6 +93,66 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "19. Mushroom Grotto",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/19. Mushroom Grotto.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "18. Dragon Keeper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/18. Dragon Keeper.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":18.930434782608696}"
+                },
+                {
+                  "title": "17. Kobold Warren",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":27.325}"
+                },
+                {
+                  "title": "12. Kobolds & Traps Again!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/12. Kobolds & Traps Again!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":10.767097966728281}"
+                },
+                {
+                  "title": "11. Kobolds and Traps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/11. Kobolds and Traps.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":42.59896729776248}"
+                },
+                {
+                  "title": "1. Hungry Rats!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":36.98365122615804}"
+                },
+                {
+                  "title": "12. Kobolds & Traps Again!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/12. Kobolds & Traps Again!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":4.136363636363637}"
+                },
+                {
+                  "title": "17. Kobold Warren",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":23.62857142857143}"
+                },
+                {
+                  "title": "19. Mushroom Grotto",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/19. Mushroom Grotto.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":29.254545454545454}"
+                },
+                {
+                  "title": "1. Hungry Rats!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":32.59400544959128}"
+                },
+                {
                   "title": "Alistaire Donophan of Riddenhold",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -112,34 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aff58f92f98ce933",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. GM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. GM Screen/Rules Reference.md",
+                "file": "3. World/Otari/Menace Under Otari/New Player Combat Guide.md",
                 "mode": "preview",
                 "source": true
               }
@@ -181,18 +205,21 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1. GM Screen",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1. GM Screen/1. GM Screen.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. GM Screen/1. GM Screen.md",
+                "file": "1. GM Screen/Rules Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +348,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. GM Screen/1. GM Screen.md",
+                "file": "1. GM Screen/Rules Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -362,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. GM Screen/1. GM Screen.md"
+                "file": "1. GM Screen/Rules Reference.md"
               }
             }
           },
@@ -486,7 +513,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       },
       {
         "id": "4d5f001d29824e7f",
@@ -534,17 +561,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e734c028bfc2d72f",
+  "active": "5420dd772711cd00",
   "lastOpenFiles": [
-    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Tripping.md",
-    "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
     "1. GM Screen/1. GM Screen.md",
-    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Grapple.md",
+    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Basic_Actions/Basic_Actions.md",
+    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Specialty_Basic_Actions/Specialty_Basic_Actions.md",
     "1. GM Screen/Rules Reference.md",
-    "3. World/Otari/Otari.md",
-    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Shove.md",
-    "3. World/Otari/Gittest Folder/Gittest Note.md",
-    "3. World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Chapter 1.md",
-    "3. World/Otari/Gittest Folder/Note3.md"
+    "README.md",
+    "z_Attachments/undead/vampiric/nosferatu-overlord.webp",
+    "z_Attachments/undead/vampiric/nosferatu-malefactor.webp",
+    "z_Attachments/undead/vampiric/dhampir-wizard.webp",
+    "Untitled.md",
+    "3. World/Otari/Troubles in Otari/Troubles in Otari.md"
   ]
 }
