@@ -1,21 +1,69 @@
 {
   "players": [
     {
-      "note": "Jaybird",
-      "path": "Party/Jaybird.md",
-      "name": "Jaybird",
+      "note": "Douglas Spinebeard",
+      "path": "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
+      "name": "Douglas Spinebeard",
       "level": 1,
-      "hp": 19,
-      "ac": 14,
-      "modifier": 0,
+      "hp": 24,
+      "ac": 18,
+      "modifier": 6,
+      "player": true
+    },
+    {
+      "note": "Kyra",
+      "path": "4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md",
+      "name": "Kyra",
+      "level": 1,
+      "hp": 17,
+      "ac": 19,
+      "modifier": 6,
+      "player": true
+    },
+    {
+      "note": "Quill Constantine",
+      "path": "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
+      "name": "Quill Constantine",
+      "level": 1,
+      "player": true
+    },
+    {
+      "note": "Truth of Buel",
+      "path": "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
+      "name": "Truth of Buel",
+      "level": 1,
+      "hp": 22,
+      "ac": 15,
+      "modifier": 7,
       "player": true
     }
   ],
   "parties": [
     {
-      "name": "Jaybird",
+      "name": "Truth of Buel",
       "players": [
-        "Jaybird"
+        "Kyra",
+        "Quill Constantine",
+        "Douglas Spinebeard",
+        "Truth of Buel"
+      ]
+    },
+    {
+      "name": "Douglas Spinebeard",
+      "players": [
+        "Douglas Spinebeard"
+      ]
+    },
+    {
+      "name": "Kyra",
+      "players": [
+        "Kyra"
+      ]
+    },
+    {
+      "name": "Quill Constantine",
+      "players": [
+        "Quill Constantine"
       ]
     }
   ],
@@ -260,7 +308,79 @@
   "leafletIntegration": false,
   "playerMarker": "default",
   "monsterMarker": "default",
-  "state": null,
+  "state": {
+    "creatures": [
+      {
+        "name": "Kobold Scout",
+        "initiative": 0,
+        "modifier": 8,
+        "hp": 16,
+        "ac": 18,
+        "note": "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Kobold-Scout.md",
+        "id": "ID_7889188a0bd9",
+        "currentHP": 16,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 1",
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Kobold Scout",
+        "initiative": 0,
+        "modifier": 8,
+        "hp": 16,
+        "ac": 18,
+        "note": "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Kobold-Scout.md",
+        "id": "ID_087a399b098b",
+        "currentHP": 16,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 1",
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Kobold Dragon Mage",
+        "initiative": 0,
+        "modifier": 5,
+        "hp": 25,
+        "ac": 17,
+        "note": "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Kobold-Dragon-Mage.md",
+        "id": "ID_7ba86be85b5b",
+        "currentHP": 25,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 2",
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Douglas Spinebeard",
+        "initiative": 9,
+        "modifier": 6,
+        "hp": 24,
+        "ac": 18,
+        "note": "Douglas Spinebeard",
+        "id": "ID_daca18db8a08",
+        "currentHP": 24,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
+    "state": false,
+    "name": "Kobold Boss Fight",
+    "round": 1,
+    "logFile": ""
+  },
   "condense": false,
   "clamp": true,
   "autoStatus": true,
@@ -279,5 +399,6 @@
   "additiveTemp": false,
   "logging": false,
   "logFolder": "/",
+  "useLegacy": false,
   "integrateSRD": true
 }

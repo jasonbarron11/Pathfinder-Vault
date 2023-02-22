@@ -4,48 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6da9f9d4f3d3b2c",
+        "id": "438fd1339e029213",
         "type": "tabs",
         "children": [
           {
-            "id": "5420dd772711cd00",
+            "id": "90ea0fbc07632550",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. GM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Troubles in Otari",
+                  "title": "Quill Constantine",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Troubles in Otari/Troubles in Otari.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. GM Screen/Rules Reference.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bce792cd05c05b2c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -53,16 +26,47 @@
               ]
             },
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1. GM Screen/1. GM Screen.md"
+              }
+            }
+          },
+          {
+            "id": "76fcbec4a18b2e0f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Map Floor 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/Map Floor 1.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2. Drop Into Darkness",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/2. Drop Into Darkness.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Dramatis Personae/Otari NPC's/Rydore Scoovin.md",
+                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6e1676627d50b2d4",
+            "id": "d9a061d12cd385be",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -83,7 +87,7 @@
             }
           },
           {
-            "id": "09eea170fb6852f4",
+            "id": "3204a91092b6604d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -93,69 +97,75 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "19. Mushroom Grotto",
+                  "title": "Quill Constantine",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/19. Mushroom Grotto.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "18. Dragon Keeper",
+                  "title": "Kyra",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/18. Dragon Keeper.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":18.930434782608696}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "17. Kobold Warren",
+                  "title": "Douglas Spinebeard",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":27.325}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "12. Kobolds & Traps Again!",
+                  "title": "Untitled 7",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/12. Kobolds & Traps Again!.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":10.767097966728281}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 7.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "11. Kobolds and Traps",
+                  "title": "Untitled 6",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/11. Kobolds and Traps.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":42.59896729776248}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 6.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "1. Hungry Rats!",
+                  "title": "Untitled 5",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":36.98365122615804}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 5.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "12. Kobolds & Traps Again!",
+                  "title": "Untitled 4",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/12. Kobolds & Traps Again!.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":4.136363636363637}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 4.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "17. Kobold Warren",
+                  "title": "Untitled 3",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":23.62857142857143}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 3.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "19. Mushroom Grotto",
+                  "title": "Untitled 2",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/19. Mushroom Grotto.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":29.254545454545454}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 2.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "1. Hungry Rats!",
+                  "title": "Untitled 1",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":32.59400544959128}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Alistaire Donophan of Riddenhold",
+                  "title": "Untitled",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Otari NPC's/Alistaire Donophan of Riddenhold.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Template 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Template 1.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -163,63 +173,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/New Player Combat Guide.md",
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "3d91c1f1ca149baa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. GM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Tripping.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e734c028bfc2d72f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. GM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"1. GM Screen/1. GM Screen.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 301.5
   },
   "right": {
     "id": "e14bc4af34690792",
@@ -305,7 +266,6 @@
       {
         "id": "658bda7afd9d78f1",
         "type": "tabs",
-        "dimension": 52.07142857142857,
         "children": [
           {
             "id": "62c370dd78935c2a",
@@ -322,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. GM Screen/Rules Reference.md",
+                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. GM Screen/Rules Reference.md",
+                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -389,25 +349,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. GM Screen/Rules Reference.md"
+                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md"
               }
-            }
-          },
-          {
-            "id": "224e613902c4fc7f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           },
           {
@@ -479,7 +422,24 @@
             }
           },
           {
-            "id": "6de83629d6c53791",
+            "id": "ec962c2296269f53",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "675aa6200b880c71",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -494,34 +454,16 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
-          {
-            "id": "08fb1c52910a2067",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "custom-frames-jaybird",
-              "state": {}
-            }
           }
         ],
         "currentTab": 9
       },
       {
-        "id": "4d5f001d29824e7f",
+        "id": "94cc027908f2bb6a",
         "type": "tabs",
-        "dimension": 47.92857142857142,
         "children": [
           {
-            "id": "406a23283cb239e3",
+            "id": "6f888c35d2f2932b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -541,7 +483,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -552,26 +494,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-custom-frames:Open jaybird": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-custom-frames:Open jaybird": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5420dd772711cd00",
+  "active": "76fcbec4a18b2e0f",
   "lastOpenFiles": [
+    "3. World/Otari/Menace Under Otari/Map Floor 1.md",
+    "3. World/Otari/Menace Under Otari/2. Drop Into Darkness.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
     "1. GM Screen/1. GM Screen.md",
-    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Basic_Actions/Basic_Actions.md",
-    "2. Core Mechanics/1. Core Rule Book/Rules/Actions/Specialty_Basic_Actions/Specialty_Basic_Actions.md",
-    "1. GM Screen/Rules Reference.md",
-    "README.md",
-    "z_Attachments/undead/vampiric/nosferatu-overlord.webp",
-    "z_Attachments/undead/vampiric/nosferatu-malefactor.webp",
-    "z_Attachments/undead/vampiric/dhampir-wizard.webp",
-    "Untitled.md",
-    "3. World/Otari/Troubles in Otari/Troubles in Otari.md"
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md",
+    "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
+    "z_Templates/Markdown Templates/Markdown Commands/Character Statblock.md",
+    "Untitled 4.md",
+    "Untitled 8.md"
   ]
 }

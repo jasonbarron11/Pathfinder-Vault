@@ -372,6 +372,30 @@
           "lastUpdated": 1676693730782
         }
       }
+    },
+    "__Medicine__": {
+      "__Medicine__": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676991320128
+        }
+      }
+    },
+    "1d6+5": {
+      "1d6+5": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677008190116
+        }
+      }
+    },
+    "pf2eMonster": {
+      "pf2eMonster": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677023372791
+        }
+      }
     }
   }
 }

@@ -15,7 +15,7 @@ forcecolumns: true
 layout: Path2eBlock
 statblock: true
 source: "B1"
-name: "Aasimar Redeemer"
+name: "Aasimar-Redeemer"
 level: "Creature 5"
 alignment: "NG"
 size: "Medium"
