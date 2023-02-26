@@ -43,6 +43,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "18. Dragon Keeper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/18. Dragon Keeper.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
                   "title": "Map Floor 1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/Map Floor 1.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -59,7 +65,346 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
+                "file": "3. World/Otari/Menace Under Otari/17. Kobold Warren.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d5d6d9f3922a611d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. Hungry Rats!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3. World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":24.558282208588956}"
+                },
+                {
+                  "title": "Avatar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Avatar.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Alter Reality",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Alter Reality.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cantrips",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Cantrips/Cantrips.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Infernal Pact",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Infernal Pact.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Abyssal Pact",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Abyssal Pact.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Impaling Briars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 8/Impaling Briars.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Adapt Self",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 1/Adapt Self.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Material Component Pouch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Items/Adventuring Gear/Material Component Pouch.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Xulgath Boss",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Xulgath Boss.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Hobgoblin Warrior",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Hobgoblin Warrior.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drow Sneak",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Drow Sneak.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Bugbear Marauder",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Bugbear Marauder.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dragon, Chromatic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Families/Dragon, Chromatic.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Beast Eidolon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Beast Eidolon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Angel Eidolon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Angel Eidolon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":27.266666666666666}"
+                },
+                {
+                  "title": "Ancient-Cloud-Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Ancient-Cloud-Dragon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Akata",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Akata.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Aapoph-Serpentfolk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Aapoph-Serpentfolk.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Adult-Copper-Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Adult-Copper-Dragon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":6.0606060606060606}"
+                },
+                {
+                  "title": "Aasimar-Redeemer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Dryad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7593984962406015}"
+                },
+                {
+                  "title": "Dryad-Queen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad-Queen.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Giant-Eagle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Giant-Eagle.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Veiled-Master",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Veiled-Master.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":82}"
+                },
+                {
+                  "title": "Wasp-Swarm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wasp-Swarm.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wererat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wererat.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Werebear",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Werebear.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wendigo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wendigo.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wight.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wraith",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wraith.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Young-Black-Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Young-Black-Dragon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Yeti",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Yeti.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Yoh-Souran",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Yoh-Souran.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Young-Gold-Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Young-Gold-Dragon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Zombie-Shambler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Zombie-Shambler.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zombie-Hulk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Zombie-Hulk.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zombie-Brute",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Zombie-Brute.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Young-Green-Dragon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Young-Green-Dragon.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zombie-Brute",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Zombie-Brute.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lich",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Lich.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Keketar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Keketar.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Reefclaw",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Reefclaw.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Riding-Pony",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Riding-Pony.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sewer-Ooze",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Sewer-Ooze.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Shoggoth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Shoggoth.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Skeletal-Hulk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Skeletal-Hulk.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Skeleton-Guard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Skeleton-Guard.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Truth of Buel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kyra",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":1.641025641025641}"
+                },
+                {
+                  "title": "Douglas Spinebeard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":4.197271773347325}"
+                },
+                {
+                  "title": "Aasimar-Redeemer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Release Notes 1.1.15",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.1.15\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
                 "mode": "preview",
                 "source": true
               }
@@ -180,7 +525,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,7 +627,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +653,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md",
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -349,7 +694,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. World/Otari/Menace Under Otari/18. Dragon Keeper.md"
+                "file": "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md"
               }
             }
           },
@@ -503,17 +848,33 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "76fcbec4a18b2e0f",
+  "active": "d5d6d9f3922a611d",
   "lastOpenFiles": [
-    "3. World/Otari/Menace Under Otari/Map Floor 1.md",
-    "3. World/Otari/Menace Under Otari/2. Drop Into Darkness.md",
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Truth of Buel.md",
-    "1. GM Screen/1. GM Screen.md",
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Quill Constantine.md",
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Kyra.md",
-    "4. Dramatis Personae/Heroes/Heroes of Otari/Douglas Spinebeard.md",
-    "z_Templates/Markdown Templates/Markdown Commands/Character Statblock.md",
-    "Untitled 4.md",
-    "Untitled 8.md"
+    "3. World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Avatar.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Level 10/Alter Reality.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Arcane_Tradition/Cantrips/Cantrips.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Infernal Pact.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Rituals/Level 1/Abyssal Pact.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 8/Impaling Briars.md",
+    "2. Core Mechanics/1. Core Rule Book/Spells & Rituals/Focus Spells/Level 1/Adapt Self.md",
+    "2. Core Mechanics/1. Core Rule Book/Items/Adventuring Gear/Material Component Pouch.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Xulgath Boss.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Hobgoblin Warrior.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Drow Sneak.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Trouble in Otari/Bugbear Marauder.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Families/Dragon, Chromatic.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Beast Eidolon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Companions/Eidolons/Angel Eidolon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Ancient-Cloud-Dragon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Akata.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary 2/Aapoph-Serpentfolk.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Adult-Copper-Dragon.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Aasimar-Redeemer.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Dryad-Queen.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Giant-Eagle.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Veiled-Master.md",
+    "2. Core Mechanics/1. Core Rule Book/Bestiary/Bestiary/Wasp-Swarm.md"
   ]
 }
